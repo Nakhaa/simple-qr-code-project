@@ -16,7 +16,7 @@ p {
     margin-bottom: 22px;
 }
 
-.center-vertically-container{
+.container{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ p {
     height: 100vh;
 }
 
-.qr-code-container {
+.card {
     width: 300px;
     background-color: hsl(0, 0%, 100%);
     padding: 14px;
