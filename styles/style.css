@@ -10,8 +10,8 @@ p {
 }
 
 .qr-code-img {
-    width: 280px;
-    height: 280px;
+    width: 300px;
+    height: 300px;
     border-radius: 12px;
     margin-bottom: 22px;
 }
@@ -25,7 +25,7 @@ p {
 }
 
 .qr-code-container {
-    width: 280px;
+    width: 300px;
     background-color: hsl(0, 0%, 100%);
     padding: 14px;
     border-radius: 16px;
@@ -34,7 +34,7 @@ p {
 
 .title {
     font-weight: 700;
-    font-size: 22px;
+    font-size: 24px;
     text-align: center;
     color: hsl(218, 44%, 22%);
     margin: 0 auto 18px;
@@ -42,8 +42,35 @@ p {
 
 .sub-title {
     font-weight: 400;
-    font-size: 15px;
+    font-size: 19px;
     text-align: center;
     color: hsl(216, 15%, 48%);
     margin: 0 auto 22px;
+}
+
+@media (max-width: 376px) {
+    .qr-code-img {
+        width: 270px;
+        height: 270px;
+    }
+
+    .qr-code-container {
+        width: 270px;
+        background-color: hsl(0, 0%, 100%);
+        padding: 14px;
+        border-radius: 16px;
+        box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1);
+    }
+
+    .title {
+        font-size: 15px;
+    }
+    
+    .sub-title {
+        font-weight: 400;
+        font-size: 15px;
+        text-align: center;
+        color: hsl(216, 15%, 48%);
+        margin: 0 auto 22px;
+    }
 }
