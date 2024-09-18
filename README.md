@@ -27,7 +27,7 @@ Desktop - 1440px width
 Mobile - 375px width
 
 
-### Links
+## Links
 
 - Solution URL: [GitHub Repository](https://github.com/Nakhaa/simple-qr-code-project.git)
 - Live Site URL: [QR Code Component](https://nakhaa.github.io/simple-qr-code-project/)
