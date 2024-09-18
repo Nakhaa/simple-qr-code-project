@@ -53,6 +53,6 @@ Currently I still don't understand how to center elements, both vertically and h
 ## Author
 
 - Frontend Mentor - [@Nakhaa](https://www.frontendmentor.io/profile/nakhaa)
-- Instagram - [@m_nakhaa](https://www.twitter.com/m_nakhaa)
+- Instagram - [@m_nakhaa](https://www.instagram.com/m_nakhaa)
 
 ## Sorry for my language mistakes. English is not my first language, but i hope to master it in the future :).
