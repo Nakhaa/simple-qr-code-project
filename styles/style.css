@@ -58,7 +58,7 @@ p {
         height: 270px;
     }
 
-    .container {
+    .card {
         width: 270px;
         background-color: hsl(0, 0%, 100%);
         padding: 14px;
